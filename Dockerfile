@@ -1,3 +1,4 @@
+
 # Use Maven image to build the application
 FROM maven:latest
 
